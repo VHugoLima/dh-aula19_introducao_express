@@ -12,5 +12,4 @@
 
 ##  Atividade resolvida
 
-- [Código-fonte](./)
 - [Código-fonte](./código-fonte)
