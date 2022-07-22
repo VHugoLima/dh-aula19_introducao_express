@@ -8,8 +8,9 @@
 
 ## Instalação
 
-- [ ] ´npm install´ para instalar todas as dependências
+1.  `npm install` para instalar todas as dependências.
 
-## Exercicio Resolvido
+##  Atividade resolvida
 
-- [Código-fonte] (./)
+- [Código-fonte](./)
+- [Código-fonte](./código-fonte)
