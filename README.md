@@ -8,7 +8,7 @@
 
 ## Instalação
 
-- [ ]´npm install´ para instalar todas as dependências
+- [ ] ´npm install´ para instalar todas as dependências
 
 ## Exercicio Resolvido
 
