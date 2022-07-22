@@ -4,11 +4,11 @@
 
 ## Requisitos
 
--[ ] node.js14x ou superior
+-[] Node.js14x ou superior
 
 ## Instalação
 
--[ ] ´npm install´ para instalar todas as dependências
+-[]´npm install´ para instalar todas as dependências
 
 ## Exercicio Resolvido
 
